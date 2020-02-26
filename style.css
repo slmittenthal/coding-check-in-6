@@ -8,3 +8,14 @@ p {
 btw, this is a CSS comment. Feel free to delete it.
 
  */
+
+ h1 {
+     font-family: sans-serif;
+ }
+ .user-tip {
+     color: red;
+ }
+
+ li {
+     list-style-type: square;
+ }
